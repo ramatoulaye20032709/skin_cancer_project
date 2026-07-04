@@ -1,0 +1,27 @@
+﻿# Modèles lourds
+models/
+*.keras
+*.h5
+*.pkl
+
+# Datasets
+data/
+*.zip
+*.tar
+*.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda
+.conda/
+
+# OS
+.DS_Store
+Thumbs.db
